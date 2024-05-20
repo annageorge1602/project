@@ -1,4 +1,4 @@
-a=int(input('enter the first no:'))
+a=int(input('enter the first no1 1:'))
 
 b=int(input('enter the second no:'))
 
